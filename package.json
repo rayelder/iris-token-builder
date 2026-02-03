@@ -11,7 +11,7 @@
     "@tokens-studio/sd-transforms": "^2.0.3"
   },
   "scripts": {
-    "build": "rm -rf dist && NODE_ENV=production babel build/css --out-dir dist --copy-files && node build-output.js && cp build/js/colors.js dist/",
+    "build": "rm -rf dist && NODE_ENV=production babel build/css --out-dir dist --copy-files",
     "create": "node build-output.js"
   },
   "babel": {

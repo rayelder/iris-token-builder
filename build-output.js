@@ -30,7 +30,7 @@ const sd = new StyleDictionary({
     css: {
       transformGroup: "tokens-studio",
       prefix: "iris",
-      transforms: ["name/kebab", "color/rgb"],
+      transforms: ["name/kebab", "color/hex"],
       buildPath: "build/css/",
       files: [
         { destination: "iris-design-tokens.css", format: "css/variables" },

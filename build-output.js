@@ -20,7 +20,11 @@ StyleDictionary.registerTransform({
 });
 
 const sd = new StyleDictionary({
-  source: ["tokens/Primitives/Light.json", "tokens/Legacy/Light.json"],
+  source: [
+    "tokens/Primitives/Light.json",
+    "tokens/Legacy/Light.json",
+    "tokens/Semantic/Light.json",
+  ],
   preprocessors: ["tokens-studio"],
   platforms: {
     css: {

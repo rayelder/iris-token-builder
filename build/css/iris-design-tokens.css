@@ -76,5 +76,27 @@
   --iris-tertiary-green-400: rgb(82, 217, 202);
   --iris-tertiary-green-600: rgb(0, 160, 139);
   --iris-tertiary-green-700: rgb(0, 117, 101);
-  --iris-radius-sm: 8;
+  --iris-form-stroke-enabled: rgb(167, 174, 188);
+  --iris-form-stroke-hover: rgb(92, 102, 122);
+  --iris-form-stroke-focus: rgb(80, 153, 211);
+  --iris-form-stroke-focus-ring: rgb(186, 221, 240);
+  --iris-form-stroke-valid: rgb(167, 174, 188);
+  --iris-form-stroke-invalid: rgb(217, 35, 12);
+  --iris-form-stroke-invalid-focus-ring: rgb(253, 208, 195);
+  --iris-form-stroke-invalid-disabled: rgb(217, 35, 12);
+  --iris-form-stroke-disabled: rgb(238, 242, 249);
+  --iris-form-text-disabled: rgb(50, 61, 84);
+  --iris-form-text-invalid: rgb(217, 35, 12);
+  --iris-form-text-valid: rgb(50, 61, 84);
+  --iris-form-text-placeholder: rgb(109, 117, 136);
+  --iris-form-text-label: rgb(50, 61, 84);
+  --iris-form-text-value: rgb(50, 61, 84);
+  --iris-form-fill-enabled: rgb(255, 255, 255);
+  --iris-form-fill-hover: rgb(255, 255, 255);
+  --iris-form-fill-focus: rgb(255, 255, 255);
+  --iris-form-fill-valid: rgb(255, 255, 255);
+  --iris-form-fill-invalid: rgb(255, 250, 248);
+  --iris-form-fill-invalid-disabled: rgb(255, 250, 248);
+  --iris-form-fill-disabled: rgb(238, 242, 249);
+  --iris-form-fill-checked: rgb(0, 19, 162);
 }

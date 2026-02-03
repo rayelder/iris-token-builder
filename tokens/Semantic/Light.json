@@ -102,11 +102,5 @@
         "$value": "{Indigo.700}"
       }
     }
-  },
-  "radius": {
-    "SM": {
-      "$type": "number",
-      "$value": 8
-    }
   }
 }

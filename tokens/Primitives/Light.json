@@ -206,5 +206,27 @@
       "$type": "color",
       "$value": "#161616"
     }
+  },
+  "Radius": {
+    "SM": {
+      "$type": "number",
+      "$value": 8
+    },
+    "MD": {
+      "$type": "number",
+      "$value": 12
+    },
+    "LG": {
+      "$type": "number",
+      "$value": 16
+    },
+    "XS": {
+      "$type": "number",
+      "$value": 4
+    },
+    "XL": {
+      "$type": "number",
+      "$value": 20
+    }
   }
 }

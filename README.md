@@ -5,6 +5,5 @@
 ```
 git pull
 npm run create
+npm run build
 ```
-
-Last update: 2/3/26

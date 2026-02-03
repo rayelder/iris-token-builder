@@ -65,7 +65,9 @@
     "id": "semantic-light",
     "name": "Light",
     "group": "Semantic",
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Semantic/Light": "enabled"
+    },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Annotation": "442f0d45e21030e654d4fadc793aa26d74c98748",
@@ -100,7 +102,9 @@
     "id": "legacy-light",
     "name": "Light",
     "group": "Legacy",
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Legacy/Light": "enabled"
+    },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Annotation": "a63d30225da097485f79c2a47cc3addb367b4b0e",
@@ -121,8 +125,7 @@
       "Tertiary.Green.300": "b3216816d681647a508dfa309eea3703e18597d0",
       "Tertiary.Green.400": "d87ea4a8a02c8d8d5b3ec8bb63cb08eba4fd1d1e",
       "Tertiary.Green.600": "b700eb9d2e2510fc6a3a9d87d8f4b0efe538a2cd",
-      "Tertiary.Green.700": "b24ef32465493ee6e7ae67f270096ef903516359",
-      "radius.SM": "c43a28e39cf7f18b79f55bfd11875b435d3f8899"
+      "Tertiary.Green.700": "b24ef32465493ee6e7ae67f270096ef903516359"
     },
     "$figmaModeId": "22165:0",
     "$figmaCollectionId": "VariableCollectionId:22165:385"

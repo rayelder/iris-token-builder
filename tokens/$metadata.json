@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
-    "Primitives/Light"
+    "Primitives/Light",
+    "Semantic/Light",
+    "Legacy/Light"
   ]
 }

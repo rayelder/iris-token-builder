@@ -1,0 +1,94 @@
+{
+  "Annotation": {
+    "$type": "color",
+    "$value": "#ce1cb3"
+  },
+  "Primary": {
+    "Pure white": {
+      "$type": "color",
+      "$value": "{Pure.White}"
+    },
+    "Light blue": {
+      "$type": "color",
+      "$value": "{Indigo.200}"
+    },
+    "Indigo": {
+      "$type": "color",
+      "$value": "{Indigo.700}"
+    }
+  },
+  "Secondary": {
+    "Medium blue": {
+      "$type": "color",
+      "$value": "{Indigo.500}"
+    },
+    "Better way blue": {
+      "$type": "color",
+      "$value": "{Indigo.600}"
+    },
+    "Text blue": {
+      "$type": "color",
+      "$value": "{Neutral.800}"
+    },
+    "Gray": {
+      "100": {
+        "$type": "color",
+        "$value": "{Neutral.200}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{Neutral.300}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{Neutral.400}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{Neutral.500}"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{Neutral.600}"
+      }
+    }
+  },
+  "Tertiary": {
+    "Red": {
+      "$type": "color",
+      "$value": "{Red.600}"
+    },
+    "Orange": {
+      "$type": "color",
+      "$value": "{Orange.600}"
+    },
+    "Yellow": {
+      "$type": "color",
+      "$value": "{Orange.400}"
+    },
+    "Green": {
+      "300": {
+        "$type": "color",
+        "$value": "{Green.300}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{Green.400}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{Green.600}"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "{Green.700}"
+      }
+    }
+  },
+  "radius": {
+    "SM": {
+      "$type": "number",
+      "$value": 8
+    }
+  }
+}

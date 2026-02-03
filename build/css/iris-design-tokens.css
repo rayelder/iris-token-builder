@@ -3,6 +3,24 @@
  */
 
 :root {
+  --iris-color-green-100: rgb(246, 253, 252);
+  --iris-color-green-200: rgb(218, 246, 242);
+  --iris-color-green-300: rgb(169, 234, 225);
+  --iris-color-green-400: rgb(82, 217, 202);
+  --iris-color-green-500: rgb(0, 193, 173);
+  --iris-color-green-600: rgb(0, 160, 139);
+  --iris-color-green-700: rgb(0, 117, 101);
+  --iris-color-green-800: rgb(0, 86, 75);
+  --iris-color-green-900: rgb(0, 52, 48);
+  --iris-color-indigo-100: rgb(244, 252, 255);
+  --iris-color-indigo-200: rgb(222, 241, 250);
+  --iris-color-indigo-300: rgb(186, 221, 240);
+  --iris-color-indigo-400: rgb(138, 192, 227);
+  --iris-color-indigo-500: rgb(80, 153, 211);
+  --iris-color-indigo-600: rgb(0, 102, 190);
+  --iris-color-indigo-700: rgb(0, 19, 162);
+  --iris-color-indigo-800: rgb(0, 0, 131);
+  --iris-color-indigo-900: rgb(13, 0, 92);
   --iris-color-neutral-100: rgb(249, 252, 255);
   --iris-color-neutral-200: rgb(238, 242, 249);
   --iris-color-neutral-300: rgb(221, 225, 234);
@@ -21,15 +39,8 @@
   --iris-color-orange-700: rgb(232, 67, 0);
   --iris-color-orange-800: rgb(223, 20, 0);
   --iris-color-orange-900: rgb(217, 0, 0);
-  --iris-color-indigo-100: rgb(244, 252, 255);
-  --iris-color-indigo-200: rgb(222, 241, 250);
-  --iris-color-indigo-300: rgb(186, 221, 240);
-  --iris-color-indigo-400: rgb(138, 192, 227);
-  --iris-color-indigo-500: rgb(80, 153, 211);
-  --iris-color-indigo-600: rgb(0, 102, 190);
-  --iris-color-indigo-700: rgb(0, 19, 162);
-  --iris-color-indigo-800: rgb(0, 0, 131);
-  --iris-color-indigo-900: rgb(13, 0, 92);
+  --iris-color-pure-white: rgb(255, 255, 255);
+  --iris-color-pure-black: rgb(22, 22, 22);
   --iris-color-red-100: rgb(255, 250, 248);
   --iris-color-red-200: rgb(255, 234, 228);
   --iris-color-red-300: rgb(253, 208, 195);
@@ -39,15 +50,4 @@
   --iris-color-red-700: rgb(185, 0, 0);
   --iris-color-red-800: rgb(139, 0, 0);
   --iris-color-red-900: rgb(85, 0, 0);
-  --iris-color-green-100: rgb(246, 253, 252);
-  --iris-color-green-200: rgb(218, 246, 242);
-  --iris-color-green-300: rgb(169, 234, 225);
-  --iris-color-green-400: rgb(82, 217, 202);
-  --iris-color-green-500: rgb(0, 193, 173);
-  --iris-color-green-600: rgb(0, 160, 139);
-  --iris-color-green-700: rgb(0, 117, 101);
-  --iris-color-green-800: rgb(0, 86, 75);
-  --iris-color-green-900: rgb(0, 52, 48);
-  --iris-color-pure-white: rgb(255, 255, 255);
-  --iris-color-pure-black: rgb(22, 22, 22);
 }

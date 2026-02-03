@@ -65,9 +65,7 @@
     "id": "semantic-light",
     "name": "Light",
     "group": "Semantic",
-    "selectedTokenSets": {
-      "Semantic/Light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Annotation": "442f0d45e21030e654d4fadc793aa26d74c98748",
@@ -102,9 +100,7 @@
     "id": "legacy-light",
     "name": "Light",
     "group": "Legacy",
-    "selectedTokenSets": {
-      "Legacy/Light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Annotation": "a63d30225da097485f79c2a47cc3addb367b4b0e",

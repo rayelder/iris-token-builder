@@ -1,8 +1,4 @@
 {
-  "Annotation": {
-    "$type": "color",
-    "$value": "#ce1cb3"
-  },
   "Primary": {
     "Pure white": {
       "$type": "color",

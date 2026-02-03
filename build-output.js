@@ -20,14 +20,13 @@ StyleDictionary.registerTransform({
 });
 
 const sd = new StyleDictionary({
-  source: ["tokens/**/*.json"],
+  source: ["tokens/Primitives/Light.json", "tokens/Legacy/Light.json"],
   preprocessors: ["tokens-studio"],
   platforms: {
     css: {
       transformGroup: "tokens-studio",
-      prefix: "iris-color",
-      transforms: ["name/iris", "color/rgb"],
-
+      prefix: "iris",
+      transforms: ["name/kebab", "color/rgb"],
       buildPath: "build/css/",
       files: [
         { destination: "iris-design-tokens.css", format: "css/variables" },

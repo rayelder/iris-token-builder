@@ -217,6 +217,10 @@
     "XL": {
       "$type": "number",
       "$value": 20
+    },
+    "Pill": {
+      "$type": "number",
+      "$value": 999
     }
   },
   "White": {

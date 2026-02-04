@@ -1,9 +1,5 @@
 {
   "Primary": {
-    "Pure white": {
-      "$type": "color",
-      "$value": "{Pure.White}"
-    },
     "Light blue": {
       "$type": "color",
       "$value": "{Indigo.200}"
@@ -11,6 +7,10 @@
     "Indigo": {
       "$type": "color",
       "$value": "{Indigo.700}"
+    },
+    "White": {
+      "$type": "color",
+      "$value": "{White}"
     }
   },
   "Secondary": {

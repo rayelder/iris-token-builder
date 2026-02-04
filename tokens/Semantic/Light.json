@@ -67,19 +67,19 @@
     "Fill": {
       "enabled": {
         "$type": "color",
-        "$value": "{Pure.White}"
+        "$value": "{White}"
       },
       "hover": {
         "$type": "color",
-        "$value": "{Pure.White}"
+        "$value": "{White}"
       },
       "focus": {
         "$type": "color",
-        "$value": "{Pure.White}"
+        "$value": "{White}"
       },
       "valid": {
         "$type": "color",
-        "$value": "{Pure.White}"
+        "$value": "{White}"
       },
       "invalid": {
         "$type": "color",

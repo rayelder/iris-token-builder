@@ -197,16 +197,6 @@
       "$value": "#003430"
     }
   },
-  "Pure": {
-    "White": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "Black": {
-      "$type": "color",
-      "$value": "#161616"
-    }
-  },
   "Radius": {
     "SM": {
       "$type": "number",
@@ -228,5 +218,13 @@
       "$type": "number",
       "$value": 20
     }
+  },
+  "White": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Black": {
+    "$type": "color",
+    "$value": "#161616"
   }
 }

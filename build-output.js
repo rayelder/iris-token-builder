@@ -28,9 +28,10 @@ StyleDictionary.registerTransform({
     const nameWithType = includeType ? `${tokenType}-${name}` : name;
     
     // Add 'legacy' prefix for legacy tokens
-    const nameWithLegacy = isLegacy ? `legacy-${nameWithType}` : nameWithType;
+    const nameWithLegacy = isLegacy ? nameWithType : `iris-${nameWithType}`;
     
-    return options.prefix ? `${options.prefix}-${nameWithLegacy}` : nameWithLegacy;
+    // return options.prefix ? `${options.prefix}-${nameWithLegacy}` : nameWithLegacy;
+    return nameWithLegacy
   },
 });
 
